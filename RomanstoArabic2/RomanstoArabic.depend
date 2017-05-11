@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1476564303 source:c:\users\jcd4912\desktop\romanstoarabic\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+
+1473909420 source:c:\users\dunlop\desktop\romanstoarabic\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+
+1476667044 source:c:\users\dunlop\desktop\school shi\romanstoarabic2\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+
+1478020185 source:c:\users\jcd4912\desktop\romanstoarabic2\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstring>
+	<iomanip>
+
+1477352397 source:c:\users\dunlop\desktop\romanstoarabic2\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+
+1478020185 source:c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic2\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstring>
+	<iomanip>
+

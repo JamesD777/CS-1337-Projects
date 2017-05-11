@@ -1,0 +1,62 @@
+(Less of a paragraph, more of a program rough draft)
+include iostream
+include fstream
+
+Global Constant int Array called Numbers = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+Global constant string array called Romans = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+
+
+
+
+
+
+
+
+
+Function getRoman( int arabic numeral) that returns a string
+{
+	Empty string rom
+	Int n = passed in arabic numeral
+	for loop that loops the length of array Numbers
+		while n is >= Numbers[i]
+			Add Romans[i] to Rom
+			Subtract Numbers[i] from n
+return rom 
+}
+
+
+Function getNumber( string roman numeral) that returns an int 
+{
+	count & num variable set to 0
+	string r = passed in roman numeral
+	
+	while count is less than the length of Numbers
+		if r starts with Romans[count]
+			add Numbers[count] to num
+			if the length of Romans[count] is 2
+				delete 2 starting parts of the string
+			else
+				delete the 1 starting part of the string
+			subtract 1 from count to account for more than 1 of the same roman
+		add one to count
+
+
+
+}
+
+
+Main
+{
+	int i for line number = 0
+	opens file
+	while newline is at the end of the line
+	{
+	if the first character is a space of line i in file
+		go to character # 17 and get the arabic numeral for the function call getRoman(Arabic Numeral) and place given roman in given space in file
+	else
+		get roman numeral for function call getNumber(Roman Numeral) and place given number in given space in file
+	i++
+	} 
+	Close file
+	return 0
+}

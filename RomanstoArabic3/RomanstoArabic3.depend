@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1480979340 source:c:\users\jcd4912\desktop\romanstoarabic3\doublelinknode.cpp
+	"DoubleLinkNode.h"
+
+1481058900 c:\users\jcd4912\desktop\romanstoarabic3\doublelinknode.h
+	"node.h"
+
+1480900979 c:\users\jcd4912\desktop\romanstoarabic3\node.h
+	<string>
+
+1481146628 source:c:\users\jcd4912\desktop\romanstoarabic3\linkedlist.cpp
+	"LinkedList.h"
+
+1481039350 c:\users\jcd4912\desktop\romanstoarabic3\linkedlist.h
+	"DoubleLinkNode.h"
+	<fstream>
+	<iostream>
+
+1481158729 source:c:\users\jcd4912\desktop\romanstoarabic3\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstring>
+	<iomanip>
+	"LinkedList.h"
+	"DoubleLinkNode.h"
+
+1480979340 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\doublelinknode.cpp
+	"DoubleLinkNode.h"
+
+1481407545 c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\doublelinknode.h
+	"node.h"
+
+1481410453 c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\node.h
+	<fstream>
+	<string>
+	<iomanip>
+
+1481411157 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\linkedlist.cpp
+	"LinkedList.h"
+
+1481410950 c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\linkedlist.h
+	"DoubleLinkNode.h"
+	<fstream>
+	<iostream>
+
+1481411144 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstring>
+	<iomanip>
+	"LinkedList.h"
+	"DoubleLinkNode.h"
+
+1481408959 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2)\node.cpp
+	"node.h"
+	<sstream>
+	<iostream>
+	<string>
+
+1481419795 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\doublelinknode.cpp
+	"DoubleLinkNode.h"
+
+1481419899 c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\doublelinknode.h
+	"node.h"
+
+1481419349 c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\node.h
+	<fstream>
+	<string>
+	<iomanip>
+
+1481422467 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\linkedlist.cpp
+	"LinkedList.h"
+
+1481422536 c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\linkedlist.h
+	"DoubleLinkNode.h"
+	<fstream>
+	<iostream>
+
+1481419216 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\node.cpp
+	"node.h"
+	<sstream>
+	<iostream>
+	<string>
+
+1481427523 source:c:\users\jcd4912\desktop\romanstoarabic3 - copy (2) - copy\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstring>
+	<iomanip>
+	"LinkedList.h"
+	"DoubleLinkNode.h"
+
+1481423395 source:c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\doublelinknode.cpp
+	"DoubleLinkNode.h"
+
+1481423499 c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\doublelinknode.h
+	"node.h"
+
+1481422949 c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\node.h
+	<fstream>
+	<string>
+	<iomanip>
+
+1481426067 source:c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\linkedlist.cpp
+	"LinkedList.h"
+
+1481426136 c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\linkedlist.h
+	"DoubleLinkNode.h"
+	<fstream>
+	<iostream>
+
+1481431123 source:c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstring>
+	<iomanip>
+	"LinkedList.h"
+	"DoubleLinkNode.h"
+
+1481422816 source:c:\users\jcd4912\desktop\cs 1337 projects\romanstoarabic3 - copy (2) - copy\node.cpp
+	"node.h"
+	<sstream>
+	<iostream>
+	<string>
+

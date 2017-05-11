@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475723580 source:c:\users\jcd4912\desktop\sudoku\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+

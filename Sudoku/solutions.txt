@@ -1,0 +1,6 @@
+11	invalid		multiple 1s in upper left
+22	valid
+33	invalid		multiple 2s in middle left
+44	valid
+55	invalid		multiple 2s in middle left
+66	valid

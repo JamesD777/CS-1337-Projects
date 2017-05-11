@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476564303 source:c:\users\jcd4912\desktop\romanstoarabic\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<algorithm>
+
+1473909420 source:c:\users\dunlop\desktop\romanstoarabic\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+
